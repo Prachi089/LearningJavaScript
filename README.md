@@ -17,4 +17,4 @@ Welcome to the **Learning JavaScript** repository. This project contains solutio
 To run the JavaScript files, you can use Node.js or open them in a web browser. For example, to run a file using Node.js, use the following command:
 
 ```bash
-node /OneDrive/Desktop/Git_Masai/LearningJavascript
+node node path/to/your/file.js
